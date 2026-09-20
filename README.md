@@ -2,7 +2,7 @@
 # Patient Admissions - Exploratory Data Analysis
 
 ## Overview
-This project performs EDA on a hospital patient admissions dataset to uncover trends, patterns, and data quality issues.
+"Achieved 100% accuracy — this reflects the synthetic nature of the dataset, where Admission_Category was deterministically derived from Primary_Diagnosis, Length_of_Stay, and Comorbidities. On real-world clinical data, such perfect accuracy would indicate data leakage and warrant further investigation."
 
 ## Key Analyses
 - Monthly admission trends
